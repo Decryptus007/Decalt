@@ -1,0 +1,13 @@
+{
+    "firstName": "Dominic",
+    "lastName": "IniOluwa",
+    "age": 19,
+    "married": false,
+    "hobbies": ["Watching Movies", "Coding", "Gaming"],
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "address": {
+        "street": "Francis Orefuwa Strt.",
+        "state": "Kwara",
+        "postal": 240211
+    }
+}
