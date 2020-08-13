@@ -1,0 +1,53 @@
+{
+    "Children": [
+        {
+            "title": "Brown Bear, Brown Bear, What Do You See?",
+            "author": ["Bill Martin Jr", "Eric Carle"],
+            "price": 5.67
+        },
+        {
+            "title": "The Wonky Donkey",
+            "author": ["Craig Smith", "Katz Cowley"],
+            "price": 4.99
+        },
+        {
+            "title": "Love You Forever",
+            "author": ["Robert Munsch", "Sheila McGraw"],
+            "price": 4.49
+        }
+    ],
+    "Inspirational": [
+        {
+            "title": "The Book of Joy: Lasting Happiness in a Changing World",
+            "author": ["Dalai Lama", " Desmond Tutu"],
+            "price": 11.82
+        },
+        {
+            "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+            "author": ["Mark Manson", "Roger Wayne"],
+            "price": 12.99
+        },
+        {
+            "title": "Get Out of Your Head: Stopping the Spiral of Toxic Thoughts",
+            "author": "Jennie Allen",
+            "price": 12.99
+        }
+    ],
+    "IT": [
+        {
+            "title": "The Unicorn Project: A Novel About Developers, Digital Disruption, and Thriving in the Age of Data",
+            "author": ["Gene Kim", "Frankie Corzo"],
+            "price": 21.99
+        },
+        {
+            "title": "The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google",
+            "author": ["Scott Galloway", "Jonathan Todd Ross"],
+            "price": 12.39
+        },
+        {
+            "title": "Inspired: How to Create Tech Products Customers Love",
+            "author": "Marty Cagan",
+            "price": 15.99
+        }
+    ]
+}
